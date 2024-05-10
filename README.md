@@ -10,10 +10,10 @@ Before start running the main file "nt.py", make sure that you are meeting below
 
 2. Enter the holiday list in holiday_finder function in the "nt_aft.py" 
 
-3. This scripts works for only Banknifty token, inorder work for other indices, token symbol and token
+3. This scripts works for only Banknifty token, inorder to work for other indices, token symbol and token
 needs to be updated across various places in the python files
 
-4. Current framework may not work as it is, there might some compatibility issues with some packages, make
+4. Current framework may not work as it is, there might be some compatibility issues with some packages, make
 sure it is free from my any kind of issues
 
 5. In the file name called 'tbs_rules.xlsx", there are six columns mentioned below,
